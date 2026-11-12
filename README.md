@@ -1,11 +1,6 @@
 # tw_assignment_1468
 submitted to : Neeta Nain ma'am for class assignment
-# Project Name
-> One-line pitch: what it does + for whom.
-
-![demo](assets/demo.gif)
-
-## Why
+## 
 2-3 lines: the problem, and why existing solutions fall short.
 
 ## Features
